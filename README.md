@@ -2,7 +2,7 @@
 
 In this project, I analyzed a sample dataset contaning more than 100,000 orders since 2019 til 2024.  I investigated trends in sales, orders, products, and the effectiveness of the company's loyalty program to provide insight that could improve the companies performance. I utilized various functions within Excel including conditional formatting, aggregation functions, and Pivot Tables to clean and analyze the data and provide insight to management.
 
-## Overview of Analysis
+## Summary of Analysis
 **Yearly Trends:** From 2019 to 2022, the total sales value was 28 million with over 100,000 orders. 2020 accounted for more than 35% of the total value with the highest yearly sales total of $10.1 million and average order values (AOV) around $300. Sales and orders have been on a decline since 2020 with rates decreasing by roughly 10% and 46% for 2021 and 2022. However, AOV has only decreased by roughly 10% each year. It is assumed that the enforced lockdown and increased stimulus spending may have had the greatest factor in such increased in 2020 and slowly exiting in 2021.
 
 ![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/b1f58c57-97eb-4952-bc8d-b1c643da849a)
