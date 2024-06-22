@@ -17,12 +17,14 @@ In this project, I analyzed a sample dataset containing more than 100,000 orders
 ![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/d65fff3c-55d0-487a-abee-aa8f0f22ab9a)  ![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/257c5386-d03e-4f25-951a-36fbfe2c060f)
 
 **Loyalty Program** 
-The loyalty program started off slow but has steadily gained popularity throughout the years, increasing over 400% by the end of 2022 compared to 2019 and accounting for 42% of total customers. Loyalty members have outperformed non-loyalty members in 2021 and 2022, with each years Loyalty revenue bringing in $500k more than non-loyalty.
+The loyalty program started off slow but has steadily gained popularity throughout the years.  Loyalty members have outperformed non-loyalty members in 2021 and 2022, with each years Loyalty revenue bringing in $500k more than non-loyalty.
 
-![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/a1397349-b89f-493d-9d1b-4eb708358ca0)
+![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/1e0f3207-275b-4d1c-a19f-f60317c8cf5c)
 
 
-![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/347909c9-6ad6-4dbd-a423-77d3dbaccb65)
+
+![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/4c8de3cb-150a-48ba-94fd-3ecbc53e5843)
+
 
 
 **Refund Rate**
@@ -30,6 +32,6 @@ The loyalty program started off slow but has steadily gained popularity througho
 ## Recommendations
 Based on the above insights, the company should looking into the following:
 
-* Reach out to sales team or marketing teams to determine if it is possible to promote sales to help retain customer interests
-* Drop Bose Soundsport Headphones from inventory due to poor performance and prioritize other high selling products to increase profit margins
-* Due to increasing popularity, Continue to promote loyalty program to retain and/or obtain new customers and perform quartly growths 
+* Reach out to sales team or marketing teams to determine if it is possible to promote sales during down time such as non-holiday seasons to help increase interest
+* Drop Bose Soundsport Headphones from inventory due to accounting for less than 1% of revenue and prioritize other high selling products to increase profit margins
+* Due to increasing popularity, continue to promote loyalty program because the program is continuing to bring in more customer and  revenue than non-loyalty 
