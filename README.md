@@ -36,6 +36,10 @@ The loyalty program started off slow but has steadily gained popularity througho
 
 
 **Refund Rate**
+Apple Products have had a higher refund rate compare to other products each year since 2019.
+
+![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/848514bc-f724-4cf2-8c6b-dcc3cb9e4990)
+
 
 ## Recommendations
 Based on the above insights, the company should looking into the following:
