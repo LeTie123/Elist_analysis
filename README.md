@@ -4,7 +4,7 @@ In this project, I analyzed a sample dataset containing more than 100,000 orders
 
 
 ## Overview
-The Elist data set has shown that the company is showing a decrease in sells revenue. However the decrease in sells should not be a big concern due to rare anomolies that had affected the economic market during 2020 and the current sales data is showing that the companies is returning to how it has done before. A deep dive also reviewed that the companies main time for sales is during the holiday season such as Thanksgiving and Christmas, but sales are stagnate during the rest of the year or lower than normal. Apple Airpods are the companies best sellers, while the Bose Soundsport Headphones are the the worst sellers. The loyalty program is building a bigger customer base and is shown to be popular amoung the customer base.
+The Elist data set has shown that the company is showing a decrease in sells revenue. However the decrease in sells should not be a big concern due to rare anomolies that had affected the economic market during 2020 and the current sales data is showing that the companies is returning to how it has done before. A deep dive also reviewed that the companies main time for sales is during the holiday season such as Thanksgiving and Christmas, but sales are stagnate during the rest of the year or lower than normal. Apple Airpods are the companies best sellers, while the Bose Soundsport Headphones are the the worst sellers. The loyalty program is building a bigger customer base and is shown to be popular amoung the customer base. Apple products consistently have had a higher rate of return compare to other products.
 
 
 
@@ -36,11 +36,12 @@ The loyalty program started off slow but has steadily gained popularity througho
 
 
 **Refund Rate:**
-Apple Products have had a higher refund rate compare to other products each year since 2019 regardless if there was higher or lower orders of other brand products. Refund rates in 2020 was 10% but has dropped to 4% in 2021. 
+Apple Products have had a higher refund rate compare to other products each year since 2019. Refund rates peaked in 2020 with rates around 10% and dipped to 4% the following year. One thing to note is that Apple products sold 2,000 more products compared to other products in 2020 and had a higher return rate (10.31% against 7.97%). However, in 2021, Apple Product undersold by 2,500 compared to the other brand products but it still maintained a higher return rate (4.32% against 3.01%).
 
 ![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/848514bc-f724-4cf2-8c6b-dcc3cb9e4990)
 
-A deeper dive shows that the MacBook Air Laptop has continuously have had a higher refund rate compare to other Apple products
+Out of all the Apple Product sold at this company, The Macbook Air Laptop had the highest return rate. 2019 and 2020 had the biggest gaps in rates at around 6% difference from the next highest returned product while in 2021 all products were relatively similar in rates.
+
 ![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/3029d167-10b5-43d4-87d5-8302efaa7ca6)
 
 2022 return data was excluded due to having 0 returns documented in 2022. Further research must be done to determine why the data does not show any results
@@ -51,4 +52,4 @@ Based on the above insights, the company should looking into the following:
 * Reach out to sales team or marketing teams to determine if it is possible to promote sales during down time such as non-holiday seasons to help increase interest
 * Drop Bose Soundsport Headphones from inventory due to accounting for less than 1% of revenue and prioritize other high selling products to increase profit margins
 * Due to increasing popularity, continue to promote loyalty program because the program is continuing to bring in more customer and revenue than non-loyalty 
-* Look into the reason why Apple Products have higher refund rates than other products with the main focus being on Macbooks due to its high rates compare to headphones and iphones
+* Look into the reason why Apple Products have higher refund rate in general with the main focus being on Macbooks due to its high rates compare to headphones and iphones
