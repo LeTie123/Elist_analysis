@@ -21,12 +21,12 @@ The Elist data set has shown that the company is showing a decrease in sells rev
 
  
 
-**Product Performance** Apple Airpods Headphones were the most popular product averaging around 12,000 orders per year and having a total revenue of $7.7 million. The 27in 4k Gaming Monitor was the 2nd most brought product, averaging around 6k sales per year, but had brought in the most for a total of $9.8 million. In contrast, Bose Soundsport Headphones were consistently the least popular item, accounting for less thean 1% of total sales and orders.
+**Product Performance:** Apple Airpods Headphones were the most popular product averaging around 12,000 orders per year and having a total revenue of $7.7 million. The 27in 4k Gaming Monitor was the 2nd most brought product, averaging around 6k sales per year, but had brought in the most for a total of $9.8 million. In contrast, Bose Soundsport Headphones were consistently the least popular item, accounting for less thean 1% of total sales and orders.
 
 ![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/226e00ba-9709-4620-9ec0-6bc6e75f5a0a)
 
 
-**Loyalty Program** 
+**Loyalty Program:** 
 The loyalty program started off slow but has steadily gained popularity throughout the years based on the customer breakdown with loyalty memebrs in 2021 and 2022 making up more than 50% of the customer base. The company's current members account for 42% of the grand total. Loyalty members have also outperformed non-loyalty members in 2021 and 2022, with each years loyalty revenue bringing in $500k more than non-loyalty.
 
 ![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/60f1baa5-7677-4a3d-8be2-d1dcf20dd543)
@@ -35,13 +35,15 @@ The loyalty program started off slow but has steadily gained popularity througho
 ![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/6e440b55-5a60-4739-b815-144257fef513)
 
 
-**Refund Rate**
-Apple Products have had a higher refund rate compare to other products each year since 2019 regardless if there was higher or lower orders of other brand products. Refund rates in 2020 was 10% but has dropped to 4% in 2021. A deeper dive shows that the MacBook Air Laptop has continuously have had a higher refund rate compare to other Apple products
+**Refund Rate:**
+Apple Products have had a higher refund rate compare to other products each year since 2019 regardless if there was higher or lower orders of other brand products. Refund rates in 2020 was 10% but has dropped to 4% in 2021. 
 
 ![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/848514bc-f724-4cf2-8c6b-dcc3cb9e4990)
+
+A deeper dive shows that the MacBook Air Laptop has continuously have had a higher refund rate compare to other Apple products
 ![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/3029d167-10b5-43d4-87d5-8302efaa7ca6)
 
-
+2022 return data was excluded due to having 0 returns documented in 2022. Further research must be done to determine why the data does not show any results
 
 ## Recommendations
 Based on the above insights, the company should looking into the following:
@@ -49,3 +51,4 @@ Based on the above insights, the company should looking into the following:
 * Reach out to sales team or marketing teams to determine if it is possible to promote sales during down time such as non-holiday seasons to help increase interest
 * Drop Bose Soundsport Headphones from inventory due to accounting for less than 1% of revenue and prioritize other high selling products to increase profit margins
 * Due to increasing popularity, continue to promote loyalty program because the program is continuing to bring in more customer and revenue than non-loyalty 
+* Look into the reason why Apple Products have higher refund rates than other products with the main focus being on Macbooks due to its high rates compare to headphones and iphones
