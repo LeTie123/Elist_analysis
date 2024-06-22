@@ -36,9 +36,11 @@ The loyalty program started off slow but has steadily gained popularity througho
 
 
 **Refund Rate**
-Apple Products have had a higher refund rate compare to other products each year since 2019. Refund rates in 2020 was 10% but has dropped to 4% in 2021. 
+Apple Products have had a higher refund rate compare to other products each year since 2019 regardless if there was higher or lower orders of other brand products. Refund rates in 2020 was 10% but has dropped to 4% in 2021. A deeper dive shows that the MacBook Air Laptop has continuously have had a higher refund rate compare to other Apple products
 
 ![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/848514bc-f724-4cf2-8c6b-dcc3cb9e4990)
+![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/3029d167-10b5-43d4-87d5-8302efaa7ca6)
+
 
 
 ## Recommendations
