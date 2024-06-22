@@ -3,7 +3,7 @@
 In this project, I analyzed a sample dataset containing more than 100,000 orders since 2019 til 2024.  I investigated trends in sales, orders, products, and the effectiveness of the company's loyalty program to provide insight that could improve the companies performance. I utilized various functions within Excel including conditional formatting, aggregation functions, and Pivot Tables to clean and analyze the data and provide insight to management.
 
 
-##Overview
+## Overview
 The Elist data set has shown that the company is showing a decrease in sells revenue. However the decrease in sells should not be a big concern due to rare anomolies that had affected the economic market during 2020 and the current sales data is showing that the companies is returning to how it has done before. A deep dive also reviewed that the companies main time for sales is during the holiday season such as Thanksgiving and Christmas, but sales are stagnate during the rest of the year or lower than normal. Apple Airpods are the companies best sellers, while the Bose Soundsport Headphones are the the worst sellers. The loyalty program is building a bigger customer base and is shown to be popular amoung the customer base.
 
 
