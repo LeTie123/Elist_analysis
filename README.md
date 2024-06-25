@@ -7,7 +7,7 @@ The database structure as seen below consists of four tables: orders, customers,
 
 ![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/07d94637-b9ff-48d6-9073-2bebe65de23e)
 
-Quality issues were found within the data set and a fix was documented <a <href= https://github.com/LeTie123/Elist_analysis/blob/main/Elist%20ChangeLog.xlsx>here</a>.
+Quality issues were found within the data set and a fix was documented <a href= https://github.com/LeTie123/Elist_analysis/blob/main/Elist%20ChangeLog.xlsx>here</a>.
 
 
 ## Overview
