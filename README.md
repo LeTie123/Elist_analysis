@@ -7,7 +7,9 @@ The database structure as seen below consists of four tables: orders, customers,
 
 ![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/07d94637-b9ff-48d6-9073-2bebe65de23e)
 
-Quality issues were found within the data set and a fix was documented here.
+Quality issues were found within the data set and a fix was documented <a <href= https://github.com/LeTie123/Elist_analysis/blob/main/Elist%20ChangeLog.xlsx>here</a>.
+
+
 ## Overview
 The Elist data set has shown that the company is showing a decrease in sells revenue. However the decrease in sells should not be a big concern due to rare anomolies that had affected the economic market during 2020 and the current sales data is showing that the companies is returning to how it has done before. A deep dive also reviewed that the companies main time for sales is during the holiday season such as Thanksgiving and Christmas, but sales are stagnate during the rest of the year or lower than normal. Apple Airpods are the companies best sellers, while the Bose Soundsport Headphones are the the worst sellers. The loyalty program is building a bigger customer base and is shown to be popular amoung the customer base. Apple products consistently have had a higher rate of return compare to other products.
 
