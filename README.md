@@ -1,6 +1,13 @@
-# Portfolio Project Elist E-commerce Analysis
+![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/0cd3f03d-4ab3-44e8-a7e4-246abad132f5)# Portfolio Project Elist E-commerce Analysis
 
 In this project, I analyzed a sample dataset containing more than 100,000 orders since 2019 til 2024.  I investigated trends in sales, orders, products, and the effectiveness of the company's loyalty program to provide insight that could improve the companies performance. I utilized various functions within Excel including conditional formatting, aggregation functions, and Pivot Tables to clean and analyze the data and provide insight to management.
+
+## Data
+The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a roughly 100,000 transactional records
+
+![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/07d94637-b9ff-48d6-9073-2bebe65de23e)
+
+
 
 
 ## Overview
