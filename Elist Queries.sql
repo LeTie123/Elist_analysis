@@ -129,3 +129,27 @@ left join core.customers
   on orders.customer_id = customers.id
   where loyalty_program is not null
 group by 1;
+
+
+
+--6)For each purchase platform, return the top 3 customers by the number of purchases and order them within that platform. If there is a tie, break the tie using any order. 
+
+-- Purchase platform, customer_ID, count of purchases
+-- Utilize a CTE to get row numbers/rank column
+
+
+with Order_count as (
+Select purchase_platform,
+  customer_id,
+  count(distinct orders.id) as total_orders
+from core.orders
+group by 1,2),
+ 
+rankings as (
+Select *,
+row_number() over (partition by purchase_platform order by total_orders desc) as ranks
+from Order_count)
+
+Select *
+from rankings
+where ranks <= 3
