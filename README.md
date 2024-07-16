@@ -38,7 +38,8 @@ In conclusion, while facing challenges in revenue performance, Elist Electronics
 
 **Monthly Trends:** Analysis reveals that E-list sales does have seasonality. November and December tend to average around a 21% growth rate compared to other months. February and October shows the biggest decrease in growth avaergaing around -25%. Trends most likely occur due to customers saving for the big holidays in November and December and regressing from wanting to purchase anything new after the holidays. March 2020 was deemed to be an outlier due to having a growth rate of 50% in total sales, most likely stemming from pandemic spending.
 
-![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/a29dc2bc-2ebc-4b1e-a428-ab6d1991f76d)
+![image](https://github.com/user-attachments/assets/45870039-6b9c-4e35-80a3-267a19ef86d8)
+
 
  
 
@@ -50,10 +51,7 @@ In conclusion, while facing challenges in revenue performance, Elist Electronics
 **Loyalty Program:** 
 The loyalty program started off slow but has steadily gained popularity throughout the years based on the customer breakdown with loyalty memebrs in 2021 and 2022 making up more than 50% of the customer base. The company's current members account for 42% of the grand total. Loyalty members have also outperformed non-loyalty members in 2021 and 2022, with each years loyalty revenue bringing in $500k more than non-loyalty.
 
-![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/60f1baa5-7677-4a3d-8be2-d1dcf20dd543)
-
-
-![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/6e440b55-5a60-4739-b815-144257fef513)
+![image](https://github.com/user-attachments/assets/97828b19-0911-424f-92df-3ea4b62b9925)
 
 
 **Refund Rate:**
@@ -63,7 +61,8 @@ Apple Products have had a higher refund rate compare to other products each year
 
 Out of all the Apple Product sold at this company, The Macbook Air Laptop had the highest return rate. 2019 and 2020 had the biggest gaps in rates at around 6% difference from the next highest returned product while in 2021 all products were relatively similar in rates.
 
-![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/3029d167-10b5-43d4-87d5-8302efaa7ca6)
+![image](https://github.com/user-attachments/assets/16b3d0f0-ab3a-4a00-86b8-c53fe9c5e847)
+
 
 2022 return data was excluded due to having 0 returns documented in 2022. Further research must be done to determine why the data does not show any results
 
