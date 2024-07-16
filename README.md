@@ -1,9 +1,18 @@
 
-# Project overview
-In this project, I analyzed a sample dataset containing more than 100,000 orders since 2019 til 2024.  I investigated trends in sales, orders, products, and the effectiveness of the company's loyalty program to provide insight that could improve the companies performance. I utilized various functions within Excel including conditional formatting, aggregation functions, and Pivot Tables to clean and analyze the data and provide insight to management.
+# Project Background
+Elist Electronics is a global e-commerce company that sells popular electronics worldwide via its website and apps.
+The company has a significant amount of data such as their yearly revenue and sales, products sold, and marketing tools. 
+With over 100,000 records from 2019 to 2024 within the dataset, analytical tools such privot tables and conditional formatting from Excel and queries written in SQL will be used to meticulously clean and dissect the hidden insights within the data.
+
+The projects will focus on the following areas:
+* Sales Trend: Focus on sales pattern through out the years 
+* Product Performance: Focus on which products performing well and which that are underperforming in popularity
+* Loyalty Program: Focus on whether the loyalty program is worth keeping for customer retention and sales
+* Refund Rates: Focus on which apple products have the highest refund rate
+
 
 ## Data
-The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a roughly 100,000 transactional records
+The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status.
 
 ![image](https://github.com/LeTie123/Elist_analysis/assets/147008583/07d94637-b9ff-48d6-9073-2bebe65de23e)
 
@@ -11,8 +20,13 @@ Quality issues were found within the data set and a fix was documented <a href= 
 
 
 ## Overview
-The Elist data set has shown that the company is showing a decrease in sells revenue. However the decrease in sells should not be a big concern due to rare anomolies that had affected the economic market during 2020 and the current sales data is showing that the companies is returning to how it has done before. A deep dive also reviewed that the companies main time for sales is during the holiday season such as Thanksgiving and Christmas, but sales are stagnate during the rest of the year or lower than normal. Apple Airpods are the companies best sellers, while the Bose Soundsport Headphones are the the worst sellers. The loyalty program is building a bigger customer base and is shown to be popular amoung the customer base. Apple products consistently have had a higher rate of return compare to other products.
+The Elist dataset reveals a notable decline in sales revenue, which initially might raise concerns. However, this decrease can be attributed to rare anomalies affecting the economic landscape in 2020. Encouragingly, recent sales data indicates a return to previous performance levels, suggesting a resilient recovery.
 
+A detailed analysis uncovers that Elist Electronics experiences peak sales activity during the holiday season, particularly around Thanksgiving and Christmas. Conversely, sales remain stagnant or dip below average during other times of the year. Notably, Apple Airpods emerge as the top-selling product, underscoring their popularity among consumers. In contrast, Bose Soundsport Headphones lag behind as the least popular item in the product lineup.
+
+The company's loyalty program has proven effective in expanding its customer base, demonstrating strong appeal among its clientele. Furthermore, Apple products consistently exhibit a higher rate of return compared to other offerings, highlighting potential areas for improvement in product satisfaction or customer support.
+
+In conclusion, while facing challenges in revenue performance, Elist Electronics shows promise in recovering from market disruptions. Insights gleaned from sales trends, product performance, and customer loyalty provide a solid foundation for strategic adjustments aimed at sustaining growth and enhancing customer satisfaction moving forward.
 
 
 ## Summary of Analysis
